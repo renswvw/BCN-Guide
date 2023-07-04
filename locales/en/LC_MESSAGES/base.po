@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-22 10:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/streamlit_app.py:23
+msgid "Circular City Index - Spain"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Andalusia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Aragon"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Asturias"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Balearic Islands"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Canary Islands"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Cantabria"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Castile and León"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Castilla-La Mancha"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Catalonia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Valencia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Extremadura"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Galicia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Madrid"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Murcia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Navarre"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Basque Country"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "La Rioja"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Ceuta"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Melilla"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Minor Plazas de Soberanía"
+msgstr ""
+
+#: app/streamlit_app.py:52
+msgid "Municipality Dashboard"
+msgstr ""
+
+#: app/streamlit_app.py:52
+msgid "Research Dashboard"
+msgstr ""
+
+#: app/streamlit_app.py:63
+msgid "Municipality"
+msgstr ""
+
+#: app/streamlit_app.py:64
+msgid "Digitalization"
+msgstr ""
+
+#: app/streamlit_app.py:65
+msgid "Energy_Climate_Resources"
+msgstr "Energy & Climate"
+
+#: app/streamlit_app.py:66
+msgid "Mobility"
+msgstr ""
+
+#: app/streamlit_app.py:67
+msgid "Waste"
+msgstr ""
+
+#: app/streamlit_app.py:73
+msgid "Circular City Index Dashboard"
+msgstr ""
+
+#: app/streamlit_app.py:74
+msgid "This dashboard is developed to show the Circular City Index applied on Spain, and empowers policymakers with data-driven insights across key indicators. The index supports driving targeted strategies for sustainable urban development, fostering circularity and spearheading Spain's green transition."
+msgstr ""
+
+#: app/streamlit_app.py:82
+msgid "Spain"
+msgstr ""
+
+#: app/streamlit_app.py:82
+msgid "Iberian Pensinula"
+msgstr ""
+
+#: app/streamlit_app.py:86
+msgid "Select Autonomous Community"
+msgstr ""
+
+#: app/streamlit_app.py:105
+msgid "Select Municipality"
+msgstr ""
+
+#: app/streamlit_app.py:113
+msgid "Select Range of Score"
+msgstr ""
+
+#: app/streamlit_app.py:148
+msgid "[Data Analytics and Visualization Team](https://bsc.es/viz/team/), [Barcelona Supercomputing Center](https://bsc.es/) (BSC). [circular-city-index-viewer](https://github.com/BSCCNS/circular-city-index-viewer)"
+msgstr ""
+
+#: app/streamlit_app.py:177
+msgid "Map of "
+msgstr ""
+
+#: app/streamlit_app.py:177
+msgid " - Change Weights"
+msgstr ""
+
+#: app/streamlit_app.py:185
+msgid "Select Feature"
+msgstr ""
+
+#: app/streamlit_app.py:189
+msgid "Supported by SoBigData++ ([Gr. N. 871042](https://cordis.europa.eu/project/id/871042))."
+msgstr ""
+
+#: app/src/map.py:28
+msgid "Unselected Municipalities"
+msgstr ""
+
+#: app/src/map.py:40
+msgid "CCI Scores"
+msgstr ""
+
+#: app/src/map.py:40
+msgid "CCI Score"
+msgstr ""
+
+#: app/src/map.py:44
+msgid "Score"
+msgstr ""
+
+#: app/src/map.py:45
+msgid "Major challenges remain"
+msgstr ""
+
+#: app/src/map.py:45
+msgid "Significant challenges remain"
+msgstr ""
+
+#: app/src/map.py:45
+msgid "Challenges remain"
+msgstr ""
+
+#:app/src/map.py:45
+msgid "Minor challenges remain"
+msgstr ""
+
+#: app/src/map.py:45
+msgid "Challenges achieved"
+msgstr ""
+
+#: app/src/map.py:54
+msgid "Selected Municipality"
+msgstr ""
+
+#: app/src/graph.py:74
+msgid "CCI Categories"
+msgstr ""
+
+#: app/src/graph.py:87
+msgid "Energy & Climate"
+msgstr ""
+
+#: app/src/weight.py:64
+msgid "Sum of weights is not equal 1.0."
+msgstr ""

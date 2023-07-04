@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-22 10:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/streamlit_app.py:23
+msgid "Circular City Index - Spain"
+msgstr "Índex de Ciutat Circular - Espanya"
+
+#: app/streamlit_app.py:49
+msgid "Andalusia"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Aragon"
+msgstr "Aragó"
+
+#: app/streamlit_app.py:49
+msgid "Asturias"
+msgstr "Principat d'Astúries"
+
+#: app/streamlit_app.py:49
+msgid "Balearic Islands"
+msgstr "Illes Balears"
+
+#: app/streamlit_app.py:49
+msgid "Canary Islands"
+msgstr "Illes Canàries"
+
+#: app/streamlit_app.py:49
+msgid "Cantabria"
+msgstr "Cantàbria"
+
+#: app/streamlit_app.py:49
+msgid "Castile and León"
+msgstr "Castella i Lleó"
+
+#: app/streamlit_app.py:49
+msgid "Castilla-La Mancha"
+msgstr "Castella - la Manxa"
+
+#: app/streamlit_app.py:49
+msgid "Catalonia"
+msgstr "Catalunya"
+
+#: app/streamlit_app.py:49
+msgid "Valencia"
+msgstr "Pais Valencià"
+
+#: app/streamlit_app.py:49
+msgid "Extremadura"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Galicia"
+msgstr "Galícia"
+
+#: app/streamlit_app.py:49
+msgid "Madrid"
+msgstr "Comunitat de Madrid"
+
+#: app/streamlit_app.py:49
+msgid "Murcia"
+msgstr "Regió de Múrcia"
+
+#: app/streamlit_app.py:49
+msgid "Navarre"
+msgstr "Navarra"
+
+#: app/streamlit_app.py:49
+msgid "Basque Country"
+msgstr "País Basc"
+
+#: app/streamlit_app.py:49
+msgid "La Rioja"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Ceuta"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Melilla"
+msgstr ""
+
+#: app/streamlit_app.py:49
+msgid "Minor Plazas de Soberanía"
+msgstr "Minor Places de Sobirania"
+
+#: app/streamlit_app.py:52
+msgid "Municipality Dashboard"
+msgstr "Tauler Municipal"
+
+#: app/streamlit_app.py:52
+msgid "Research Dashboard"
+msgstr "Tauler científic"
+
+#: app/streamlit_app.py:63
+msgid "Municipality"
+msgstr "Municipi"
+
+#: app/streamlit_app.py:64
+msgid "Digitalization"
+msgstr "Digitalització"
+
+#: app/streamlit_app.py:65
+msgid "Energy_Climate_Resources"
+msgstr "Energia i Clima"
+
+#: app/streamlit_app.py:66
+msgid "Mobility"
+msgstr "Mobilitat"
+
+#: app/streamlit_app.py:67
+msgid "Waste"
+msgstr "Malbaratament"
+
+#: app/streamlit_app.py:73
+msgid "Circular City Index Dashboard"
+msgstr "Tauler de Control de l'Índex de Ciutat Circular"
+
+#: app/streamlit_app.py:74
+msgid "This dashboard is developed to show the Circular City Index applied on Spain, and empowers policymakers with data-driven insights across key indicators. The index supports driving targeted strategies for sustainable urban development, fostering circularity and spearheading Spain's green transition."
+msgstr "Aquesta plataforma s'ha desenvolupat per mostrar l'aplicació de l'Índex de Ciutat Circular a Espanya, i proporciona als responsables de polítiques dades basades en evidències a través d'indicadors clau. L'índex ofereix suport per impulsar estratègies específiques per al desenvolupament urbà sostenible, fomentant la circularitat i liderant la transició verda d'Espanya."
+
+#: app/streamlit_app.py:82
+msgid "Spain"
+msgstr "Espanya"
+
+#: app/streamlit_app.py:82
+msgid "Iberian Pensinula"
+msgstr "Pensínula Ibèrica"
+
+#: app/streamlit_app.py:86
+msgid "Select Autonomous Community"
+msgstr "Seleccioneu Comunitat Autònoma"
+
+#: app/streamlit_app.py:105
+msgid "Select Municipality"
+msgstr "Seleccioneu Municipi"
+
+#: app/streamlit_app.py:113
+msgid "Select Range of Score"
+msgstr "Seleccioneu Interval de Puntuació"
+
+#: app/streamlit_app.py:148
+msgid "[Data Analytics and Visualization Team](https://bsc.es/viz/team/), [Barcelona Supercomputing Center](https://bsc.es/) (BSC). [circular-city-index-viewer](https://github.com/BSCCNS/circular-city-index-viewer)"
+msgstr "[Equip d'Anàlisi de Dades i Visualització](https://bsc.es/viz/team/), [Centro Nacional de Supercomputación](https://bsc.es/ca) (BSC). [circular-city-index-viewer](https://github.com/BSCCNS/circular-city-index-viewer)"
+
+#: app/streamlit_app.py:177
+msgid "Map of "
+msgstr "Mapa de "
+
+#: app/streamlit_app.py:177
+msgid " - Change Weights"
+msgstr " - Canvia els Pesos"
+
+#: app/streamlit_app.py:185
+msgid "Select Feature"
+msgstr "Seleccioneu Funcions"
+
+#: app/streamlit_app.py:198
+msgid "Supported by SoBigData++ ([Gr. N. 871042](https://cordis.europa.eu/project/id/871042))."
+msgstr "Compatible amb SoBigData++ ([Gr. N. 871042](https://cordis.europa.eu/project/id/871042/es))."
+
+#: app/src/map.py:28
+msgid "Unselected Municipalities"
+msgstr "Municipis no Seleccionats"
+
+#: app/src/map.py:40
+msgid "CCI Scores"
+msgstr "Puntuació CCI"
+
+#: app/src/graph.py:40
+msgid "CCI Score"
+msgstr "Puntuació CCI"
+
+#: app/src/map.py:44
+msgid "Score"
+msgstr "Puntuació"
+
+#: app/src/map.py:45
+msgid "Major challenges remain"
+msgstr "Queden els grans reptes"
+
+#: app/src/map.py:45
+msgid "Significant challenges remain"
+msgstr "Queden reptes importants"
+
+#: app/src/map.py:45
+msgid "Challenges remain"
+msgstr "Queden els reptes"
+
+#: app/src/map.py:45
+msgid "Minor challenges remain"
+msgstr "Queden reptes menors"
+
+#: app/src/map.py:45
+msgid "Challenges achieved"
+msgstr "Reptes assolits"
+
+#: app/src/map.py:54
+msgid "Selected Municipality"
+msgstr "Seleccioneu Municipi"
+
+#: app/src/graph.py:74
+msgid "CCI Categories"
+msgstr "Categories CCI"
+
+#: app/src/graph.py:87
+msgid "Energy & Climate"
+msgstr "Energia i Clima"
+
+#: app/src/weight.py:64
+msgid "Sum of weights is not equal 1.0."
+msgstr "La suma de pesos no és igual a 1,0."

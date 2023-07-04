@@ -1,0 +1,9 @@
+streamlit
+pandas
+geopandas 
+pydeck
+folium
+numpy
+plotly
+leafmap
+mapclassify
